@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "benedictipapaex03xivgoog_0010.png"; bbox 0 0 2400 3996; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 463 286 1044 433">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 463 286 1044 433">
+     <span class='ocr_line' id='line_1_1' title="bbox 463 286 1044 433; baseline 0.014 -59"><span class='ocrx_word' id='word_1_1' title='bbox 463 418 478 433; x_wconf 33' lang='grc' dir='ltr'><strong><em>ο</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 579 286 660 377; x_wconf 70' lang='lat' dir='ltr'><em>Q</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 691 297 886 384; x_wconf 63' lang='lat'>7401</span> <span class='ocrx_word' id='word_1_4' title='bbox 909 305 1044 385; x_wconf 62' lang='lat'>&amp;0</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 539 692 1535 965">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 539 692 1535 965">
+     <span class='ocr_line' id='line_1_2' title="bbox 539 692 1535 785; baseline 0.018 -33"><span class='ocrx_word' id='word_1_5' title='bbox 539 692 878 755; x_wconf 73' lang='lat' dir='ltr'><strong>Harvard</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 915 699 1192 785; x_wconf 62' lang='lat' dir='ltr'>College</span> <span class='ocrx_word' id='word_1_7' title='bbox 1232 706 1535 776; x_wconf 62' lang='lat' dir='ltr'>Libram</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 797 786 1331 855; baseline 0.013 -12"><span class='ocrx_word' id='word_1_8' title='bbox 797 786 958 845; x_wconf 68' lang='lat'><em>0013.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1011 791 1100 855; x_wconf 72' lang='lat' dir='ltr'>L,</span> <span class='ocrx_word' id='word_1_10' title='bbox 1156 793 1331 851; x_wconf 54' lang='lat'>1312</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 825 875 1297 965; baseline 0.021 -35"><span class='ocrx_word' id='word_1_11' title='bbox 825 875 1054 965; x_wconf 39' lang='grc' dir='ltr'>,Τηθεῑξῑ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1095 880 1297 957; x_wconf 45' lang='lat' dir='ltr'><strong>fund,</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
